@@ -9,9 +9,9 @@ The game keeps track of the user's score and displays the outcome of each round 
 
 
 ### Key Features:
-User Interaction: Players select their choice (rock, paper, or scissors) by clicking on corresponding buttons.
-Game Logic: JavaScript handles the game's logic, determining the winner of each round based on the choices made by the player and the computer.
-Score Tracking: The score is updated and displayed after each round to keep track of the user's performance.
+* User Interaction: Players select their choice (rock, paper, or scissors) by clicking on corresponding buttons.
+* Game Logic: JavaScript handles the game's logic, determining the winner of each round based on the choices made by the player and the computer.
+* Score Tracking: The score is updated and displayed after each round to keep track of the user's performance.
 
 
 ### Future Enhancements:
@@ -23,5 +23,6 @@ Potential future enhancements include:
 
 
 Feel free to play the game live here and explore the source code on GitHub. Your feedback and suggestions are welcome!
+
 page link: https://namala-yeshwanth.github.io/Rock_Paper_Scissor/Rock_Paper_Scissor_Game/game(rps).html
 
